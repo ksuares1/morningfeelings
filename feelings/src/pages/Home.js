@@ -1,7 +1,8 @@
 import React from 'react';
+import WelcomeComponent from "../components/Welcome";
 
 
-const HomeComponent = () =>{
+const HomeComponent =() =>{
     return(
         <main>
 
